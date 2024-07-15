@@ -1,4 +1,4 @@
-# Hacktiv Gift API Documentation
+# Virtual Gift API Documentation
 
 ## Models
 
